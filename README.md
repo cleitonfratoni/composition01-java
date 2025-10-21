@@ -1,2 +1,2 @@
-# Pracicando Composicao em Java
-Objetivo deste programa é praticar composição em Java. Programa simples, para o cadastro de funcionário e quantos contratos eles fez, retornando quanto ele recebeu em determinado mês e ano, de acordo com seus contratos salário base.
+# Pratice Composition in Java
+The objective this program is pratice composition in Java. Simple program, to singin worker and how many contracts they are do, return how many they recive in certain month and year, accordingly with your contracts and base salary.
